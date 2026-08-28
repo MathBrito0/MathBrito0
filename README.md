@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/digital-dreamer/digital-dreamer/master/assets/matrix-code.gif" alt="Animação estilo Matrix" width="450px" align="right">
 
 <samp align="left">
-  Welcome to my GitHub! My name is Matheus, and I currently studying Cibersecurity at PUC-PR. I'm dedicated to understanding study repositories, looking for improvement in vulnerability analysis (CVEs) and aiming the Blue Team Area (SOC). Feel free to explore!
+  Welcome to my GitHub! My name is Matheus and I currently studying Cibersecurity at PUCPR. I'm dedicated to understanding study repositories, looking for improvement in vulnerability analysis (CVEs) and aiming the Blue Team Area (SOC). Feel free to explore!
 <samp/>
  <br/><br/>
 
