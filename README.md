@@ -65,7 +65,7 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
 
 ![snake animation](https://github.com/MathBrito0/MathBrito0/blob/output/github-contribution-grid-snake2.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MathBrito0&repo=MathBrito0&theme=react)](https://github.com/MathBrito0/art)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MathBrito0&repo=MathBrito0&theme=react)](https://github.com/MathBrito0/MathBrito0)
 
 <div display="flex">
 
