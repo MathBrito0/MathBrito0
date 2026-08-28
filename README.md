@@ -27,10 +27,14 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## 📚 Education
+---
+
+### 📚 Education
 | 🎓 Institution | 📖 Course | 📅 Status |
 |---|---|---|
 | <img src="https://www.google.com/s2/favicons?domain=pucpr.br&sz=32" width="20"/> **PUCPR** | Cibersecurity | 🔄 In progress |
+
+---
 
 ### 🏅 Certifications and Badges
 
@@ -43,6 +47,8 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
 
 - 🎓 **Introduction to Cybersecurity** - Cisco Network Academy (2026) | 🔄 In progress |
 
+---
+
 ### 🔧 Tools and Environments
 
 <p align="left">
@@ -53,10 +59,22 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
    <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
 </p>
 
+---
+
 ### 📊 GitHub Statistics
 
+##
+<h1 align="center">
+ <picture >
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
+ </picture>   
+</h1>
+
+<div display="flex">
+
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=tokyonight"/>
-  <br><br>
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=tokyonight"/>
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MathBrito0&theme=tokyonight"/>
 </div>
