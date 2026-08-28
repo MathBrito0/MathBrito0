@@ -3,7 +3,11 @@
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=500&color=00FF41&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Matheus+Brito" />
 </h1>
-  <img src="https://raw.githubusercontent.com/digital-dreamer/digital-dreamer/master/assets/matrix-code.gif" alt="Animação estilo Matrix" width="450px" align="right">
+  <p align="right">
+  <video src="./Coded-Message-Cybersecurity-Concept.gif" autoplay muted loop width="450px" style="max-width: 100%;">
+  </video>
+</p>
+
 
 <samp align="left">
   Welcome to my GitHub! My name is Matheus and I currently studying Cibersecurity at PUCPR. I'm dedicated to understanding study repositories, looking for improvement in vulnerability analysis (CVEs) and aiming the Blue Team Area (SOC). Feel free to explore!
@@ -11,6 +15,7 @@
  <br/><br/>
 
 I am a Cybersecurity student at PUCPR, currently dedicated to understanding study repositories, vulnerability analysis (CVEs), and various programming languages (mainly Rust at the moment).
+
 
 ---
 
