@@ -3,10 +3,7 @@
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=500&color=00FF41&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Matheus+Brito" />
 </h1>
-  <p align="right">
-  <video src="./Coded-Message-Cybersecurity-Concept.gif" autoplay muted loop width="450px" style="max-width: 100%;">
-  </video>
-</p>
+
 
 
 <samp align="left">
