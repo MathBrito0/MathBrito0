@@ -38,8 +38,9 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
 
 ### 🏅 Certifications and Badges
 
-- 🎓 **Introduction to Packet Tracer** - Cisco Networking Academy (2026)
-<p align="left"> 
+- 🎓 **Introduction to Packet Tracer** - Cisco Networking Academy (2026) | 🏅 Achieved |
+
+ <p align="left"> 
   <a href="https://www.netacad.com/profile?&tab=badges#">
     <img src="https://img.shields.io/badge/Cisco-Intro_to_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Packet Tracer" />
   </a>
