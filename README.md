@@ -73,6 +73,6 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
 <div display="flex">
 
 <div align="center">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=dracula&animation=rgb-soft"/>
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MathBrito0&theme=dracula&animation=rgb-soft"/>
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
 </div>
