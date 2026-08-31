@@ -74,5 +74,5 @@ I am a Cybersecurity student at PUCPR, currently dedicated to understanding stud
 
 <div align="center">
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Gráfico de Estatísticas e Linguagens" />
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBrito0&layout=compact&langs_count=5"/>
 </div>
