@@ -29,7 +29,7 @@ I use this GitHub to document my studies, experiments, projects and progress thr
 │                                                              │
 │ 🔵 BLUE TEAM                                                 │
 │                                                              │
-│   DETECT  →  INVESTIGATE  →  RESPOND  →  IMPROVE             │
+│   DETECT  →  INVESTIGATE  →  RESPOND  →  DEFEND              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
