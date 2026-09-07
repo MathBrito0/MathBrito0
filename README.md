@@ -174,21 +174,7 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 
 ## 📡 System Status
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  STATUS                                                      │
-│                                                              │
-│  [████████████████████░░]  LEARNING                         │
-│                                                              │
-│  Focus        : Blue Team / SOC                              │
-│  Environment  : Cybersecurity                                │
-│  Mode         : Continuous Learning                          │
-│                                                              │
-│  > Monitoring...                                              │
-│  > Investigating...                                           │
-│  > Improving...                                               │
-└──────────────────────────────────────────────────────────────┘
-```
+
 <br>
 
 <div align="center">
