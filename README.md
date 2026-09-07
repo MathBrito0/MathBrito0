@@ -175,9 +175,3 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 ## 📡 System Status
 
 ![status](./assets/status-animado.svg)
-
-<br>
-
-<div align="center">
-<img src="./assets/detect_investigate_respond_defend.gif" width="100%">
-</div>
