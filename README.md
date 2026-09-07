@@ -1,4 +1,6 @@
-<!-- BLUE TEAM / SOC PROFILE Matheus Brito --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:1677FF,100:00D9FF&height=180&section=header&text=MATHEUS%20BRITO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18"> </div>
+<div align="center">
+  <img src="./matheus_brito_blue_team_animated_banner.gif" width="100%">
+</div>
 🔐 Cybersecurity Student
 
 Blue Team • SOC • Defensive Security
