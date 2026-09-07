@@ -157,17 +157,20 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 
 <br>
 
-# 📊 GitHub Statistics
+### 📊 GitHub Statistics
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div display="flex">
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathBrito0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBrito0&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
 </div>
 
-<br>
 
 ## 📡 System Status
 
