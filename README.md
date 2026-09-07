@@ -174,6 +174,7 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 
 ## 📡 System Status
 
+![status](./assets/status-animado.svg)
 
 <br>
 
