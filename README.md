@@ -1,77 +1,136 @@
-## Matheus Brito
+<!-- BLUE TEAM / SOC PROFILE Matheus Brito --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F33,50:1677FF,100:00D9FF&height=180&section=header&text=MATHEUS%20BRITO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18"> </div>
+🔐 Cybersecurity Student
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=500&color=00FF41&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Matheus+Brito" />
-</h1>
+Blue Team • SOC • Defensive Security
+
+I'm a Cybersecurity undergraduate at PUCPR, currently focused on developing my knowledge and practical skills in Blue Team and Security Operations Center (SOC) activities.
+
+My main interests include:
+
+🔵 Blue Team & SOC Operations
+🔎 Vulnerability Analysis & CVEs
+📊 Security Monitoring & Log Analysis
+🚨 Incident Response
+🤖 Security Automation
+🌐 Network & Web Security
+
+I use this GitHub to document my studies, experiments, projects and progress throughout my cybersecurity journey.
+
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🔵 BLUE TEAM                                                │
+│                                                              │
+│   DETECT  →  INVESTIGATE  →  RESPOND  →  IMPROVE             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+🔵 Blue Team Focus
+
+I'm currently developing my knowledge in defensive cybersecurity:
+
+Area	Focus
+🔵 Blue Team	Defensive Security & SOC
+📊 Monitoring	Logs, Events & Security Monitoring
+🔎 Detection	Threat Detection & IOC Analysis
+🚨 Response	Incident Response & Investigation
+🛡️ Vulnerabilities	CVEs & Vulnerability Analysis
+🤖 Automation	Security Scripts & Tools
+🌐 Networking	Network Fundamentals & Analysis
+🛠️ Technologies & Skills
+💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </p>
+🌐 Web Development
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </p>
+🗄️ Database
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
+⚛️ Quantum Computing
+<p> <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"> </p>
+🔧 Tools & Environments
+<p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> </p>
+🧪 Cybersecurity Labs
+
+My cybersecurity studies are focused on understanding defensive security through practical experimentation.
+
+Cybersecurity
+│
+├── 🔵 Blue Team
+│   ├── SOC
+│   ├── Security Monitoring
+│   ├── Log Analysis
+│   └── Threat Detection
+│
+├── 🔎 Vulnerability Analysis
+│   └── CVEs
+│
+├── 🌐 Network Security
+│
+├── 🛡️ Defensive Security
+│
+└── 🤖 Security Automation
+
+🚀 Projects
+
+My repositories are organized around different areas of my technical development.
+
+Category	Focus
+🔵 Blue Team	SOC, monitoring, detection & investigation
+🛡️ Cybersecurity	Security studies, labs & experiments
+🐍 Python	Programming & security automation
+🦀 Rust	Systems programming & experiments
+🌐 Web	HTML, CSS, JavaScript & Web Security
+🗄️ MySQL	Databases, SQL & data modeling
+⚛️ Qiskit	Quantum computing & experiments
+📚 Education
+🎓 Pontifícia Universidade Católica do Paraná — PUCPR
+
+Cybersecurity
+
+Undergraduate Student
+
+🏅 Certifications & Courses
+Cisco Networking Academy
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+✅ Introduction to Cybersecurity — Completed
+✅ Introduction to Packet Tracer — Completed
+📖 Currently Learning
+🔵 BLUE TEAM
+      │
+      ├── 📊 SOC & Security Monitoring
+      │
+      ├── 🔎 Threat Detection
+      │
+      ├── 🚨 Incident Response
+      │
+      ├── 🛡️ Vulnerability Analysis
+      │
+      └── 🤖 Security Automation
 
 
+Alongside cybersecurity, I'm continuously improving my knowledge of programming, networking, databases and systems.
 
-<samp align="left">
-  Welcome to my GitHub! My name is Matheus and I currently studying Cibersecurity at PUCPR. I'm dedicated to understanding study repositories, looking for improvement in vulnerability analysis (CVEs) and aiming the Blue Team Area (SOC). Feel free to explore!
-<samp/>
- <br/><br/>
+⚛️ Beyond Cybersecurity
 
-I am a Cybersecurity student at PUCPR, currently dedicated to understanding study repositories, vulnerability analysis (CVEs), and various programming languages (mainly Rust at the moment).
+I'm also interested in Quantum Computing and currently exploring Qiskit, quantum circuits and quantum algorithms.
 
+This is an area I study alongside cybersecurity to understand emerging technologies and their potential impact on computing and security.
 
----
-
-### 🚀 Technologies and Study
-
-<p>Programming Languages</p>
-<p align="left">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-7B0000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
----
-
-### 📚 Education
-| 🎓 Institution | 📖 Course | 📅 Status |
-|---|---|---|
-| <img src="https://www.google.com/s2/favicons?domain=pucpr.br&sz=32" width="20"/> **PUCPR** | Cibersecurity | 🔄 In progress |
-
----
-
-### 🏅 Certifications and Badges
-
-- 🎓 **Introduction to Packet Tracer** - Cisco Networking Academy (2026) | 🏅 Achieved |
-
- <p align="left"> 
-  <a href="https://www.netacad.com/profile?&tab=badges#">
-    <img src="https://img.shields.io/badge/Cisco-Intro_to_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Packet Tracer" />
-  </a>
-</p>
-
-- 🎓 **Introduction to Cybersecurity** - Cisco Network Academy (2026) | 🔄 In progress |
-
----
-
-### 🔧 Tools and Environments
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-   <img src="https://img.shields.io/badge/Nmap-2B2B2B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div display="flex">
+📊 GitHub Statistics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathBrito0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBrito0&layout=compact&langs_count=8&theme=tokyonight"/> </div>
+📡 System Status
+┌──────────────────────────────────────────────────────────────┐
+│  STATUS                                                       │
+│                                                              │
+│  [████████████████████░░]  LEARNING                          │
+│                                                              │
+│  Focus        : Blue Team / SOC                              │
+│  Environment  : Cybersecurity                                │
+│  Mode         : Continuous Learning                          │
+│                                                              │
+│  > Monitoring...                                              │
+│  > Investigating...                                           │
+│  > Improving...                                               │
+└──────────────────────────────────────────────────────────────┘
 
 <div align="center">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
-</div>
+🔵 DETECT • INVESTIGATE • RESPOND • DEFEND
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1677FF,100:0B1F33&height=100&section=footer"> </div>
