@@ -1,4 +1,4 @@
-<div align="center"> <img src="./matheus_brito_blue_team_animated_banner.gif" width="100%"> </div>
+<div align="center"> <img src="./assets/blue_team_animated_banner.gif" width="100%"> </div>
 
 <br>
 
@@ -192,5 +192,5 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 <br>
 
 <div align="center">
-<img src="./detect_investigate_respond_defend.gif" width="100%">
+<img src="./assets/detect_investigate_respond_defend.gif" width="100%">
 </div>
