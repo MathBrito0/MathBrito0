@@ -159,17 +159,20 @@ This is an area I study alongside cybersecurity to understand emerging technolog
 
 ### 📊 GitHub Statistics
 
+<div align="center">
+  <a href="https://github.com/MathBrito0">
+    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBrito0&layout=donut&hide_border=true&theme=transparent&animation=rgb-soft"/>
+  </a>
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&layout=compact&theme=transparent&animation=rgb-soft"/>
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MathBrito0/MathBrito0/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div display="flex">
-
-<div align="center">
-  <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MathBrito0&theme=transparent&animation=rgb-soft"/>
-</div>
 
 
 ## 📡 System Status
