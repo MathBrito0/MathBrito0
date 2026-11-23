@@ -113,7 +113,7 @@ My repositories are organized around different areas of my technical development
 | 🎓 Institution | 📖 Course | 📅 Status |
 |---|---|---|
 | Pontifícia Universidade Católica do Paraná — ![PUCPR](https://img.shields.io/badge/PUCPR-D30000?style=for-the-badge) | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-003B71?style=for-the-badge&logo=hackthebox&logoColor=white) | ![In Progress](https://img.shields.io/badge/In_Progress-F9A825?style=for-the-badge) | ![PUCPR](https://img.shields.io/badge/PUCPR-003B71?style=for-the-badge) | ![In Progress](https://img.shields.io/badge/In_Progress-F9A825?style=for-the-badge) |
-| Pontifícia Universidade Católica do Paraná — ![PUCPR](https://img.shields.io/badge/PUCPR-D30000?style=for-the-badge) | ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6929C4?style=for-the-badge) | ![In Progress](https://img.shields.io/badge/In_Progress-F9A825?style=for-the-badge) |
+| Pontifícia Universidade Católica do Paraná — ![PUCPR](https://img.shields.io/badge/PUCPR-D30000?style=for-the-badge) | ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6929C4?style=for-the-badge) | ![Completed](https://img.shields.io/badge/Completed-2EA44F?style=for-the-badge) |
 
 <br>
 
